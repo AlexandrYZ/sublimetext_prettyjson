@@ -1,6 +1,6 @@
 To install plugin you need:
-1) Copy prettyjson.py to <Sublime Text plugins directory>\Users. If you are not sure where is it located start Sublime Text and open Preferences -> Browse packages... In dialog opened you could copy path to plugins directory. 
-For Windows 7 it is usually %APPDATA%\Sublime Text 2\Packages\User
+1) Copy files to <Sublime Text plugins directory>\sublimetext_prettyjson. If you are not sure where is it located start Sublime Text and open Preferences -> Browse packages... In dialog opened you could copy path to plugins directory. 
+For Windows 7 it is usually %APPDATA%\Sublime Text 2\Packages\sublimetext_prettyjson
 
 2) Add key binding in Preferences -> Key bindings... like
    { "keys": ["ctrl+k", "ctrl+j"], "command": "prettyjson" }   
